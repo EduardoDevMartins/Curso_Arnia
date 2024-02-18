@@ -1,0 +1,97 @@
+
+body {
+    background-color: yellow;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.global {
+    background-color: #1A1033;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 0;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1A1033;
+    padding: 0 0;
+}
+
+.busca{
+    background-color: whitesmoke;
+    width: 450px;
+    height: 56px;
+    border-radius: 8px;
+    border: 1px;
+    
+}
+
+.selecao{
+    background-color: #FBB04D;
+    position: relative;
+    padding: 3px 3px 3px 3px;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+.buttonBusca{
+    background-color: #FBB04D;
+    width: 219px;
+    height: 56px;
+    border-radius: 8px;
+    
+}
+
+.textbusca {
+    color: aliceblue;
+}
+
+.linha{
+    margin: 0;
+    width: 1440px;
+    color: black;
+    border: 0;
+    border-top: var(--bs-border-width) solid;
+    opacity: .25;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .text_footer{
+    color: white;
+    font-size: 16px;
+    line-height: 30.08px;
+}
+
+.botaoFooterEntrar{
+    background: #1A1033;
+    margin-right: 17px;
+    justify-content: center;
+    color: white;
+
+}
+
+.botaoFootercadastro {
+    padding-right: 302px;
+    height: 56px;
+}
+
