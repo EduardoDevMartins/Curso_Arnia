@@ -38,9 +38,9 @@ body {
 .selecao{
     background-color: #FBB04D;
     position: relative;
-    padding: 3px 3px 3px 3px;
+    padding: 10px 7px 10px 7px;
     border-radius: 8px;
-    margin-top: 1rem;
+    margin-bottom: 4px;
 }
 
 .buttonBusca{
@@ -76,12 +76,97 @@ body {
     font-style: normal;
   }
 
+  .textovag{
+    font-size: 14px;
+	line-height: 19.6px;
+	color: #212121;
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+
+}
+.infoVagaTexto {
+    font-family: "Poppins", sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19.6px;
+	gap: 10px;
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+
+}
+.titulo {
+    font-family: "Poppins", sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 24.57px;
+	color: #1a1033;
+	
+}
+.TextoTitulos {
+	margin-top: 30px;
+	font-family: "Poppins", sans-serif;
+	color: #1a1033;
+    font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+}
+.textovaga1 {
+    font-weight: 400;
+	font-size: 14px;
+	line-height: 25.2px;
+	color: #4a4a68;
+	margin: 20px 0;
+	width: 823px;
+	font-family: "Poppins", sans-serif;
+	
+}
+.datatexto {
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19.6px;
+}
+
+.textoDoCard {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 24.57px;
+	margin-bottom: 0;
+}
+.cardTextoSecundario {
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19.6px;
+	margin-bottom: 20px;
+}
+.textoOpcoes {
+    border: 1px solid #6950a1;
+	color: #6950a1;
+	padding: 2px 15px;
+	text-align: center;
+	width: 88px;
+	height: 30px;
+	border-radius: 8px;
+
+}
   .text_footer{
     color: white;
     font-size: 16px;
     line-height: 30.08px;
 }
+.vagaTexto {
+    font-family: "Poppins", sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19.6px;
+	color: #5d5fef;
+	width: 131px;
+	height: 20px;
 
+}
 .botaoFooterEntrar{
     background: #1A1033;
     margin-right: 17px;
@@ -94,4 +179,41 @@ body {
     padding-right: 302px;
     height: 56px;
 }
+
+.spanVagas {
+    color: #1a1033;
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 48px;
+}
+
+.pspan {
+    color: #4a4a68;
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 31.1px;
+	margin-bottom: 20px;
+}
+
+
+
+.info {
+    padding: 20px;
+	border-radius: 16px;
+	width: 870px;
+	height: 301px;
+	
+}
+
+
+
+
+
+
+
+
+
+
 
